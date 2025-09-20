@@ -1,4 +1,9 @@
 # PT3_PBO
+Nadila Putri 
+
+2409116052 
+
+Tema Manajemen Resep Masakan
 
 ## Deskripsi Singkat
 
@@ -33,6 +38,9 @@ Program ini dimodifikasi dari tugas Post Test 2 untuk memenuhi Post Test 3 PBO d
   <img width="1588" height="664" alt="image" src="https://github.com/user-attachments/assets/225cadad-fab7-426f-a300-44267f52ba71" />
   <img width="1586" height="778" alt="image" src="https://github.com/user-attachments/assets/48682557-36b8-4eb8-ba7c-0877491149ed" />
   <img width="1620" height="901" alt="image" src="https://github.com/user-attachments/assets/f4e66653-9175-4cb4-b736-01cd6938c941" />
+
+<img width="1924" height="343" alt="image" src="https://github.com/user-attachments/assets/3cf4327a-c59e-4818-98b7-388aea8ac6b8" />
+
 
 
 
